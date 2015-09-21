@@ -1,0 +1,194 @@
+[
+   {
+      "menuItem":"Hamburger ",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Double Hamburger ",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Cheeseburger",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Bacon Cheeseburger",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Double Cheeseburger ",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Chicken Breast Sandwich ",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Garden Burger ",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Grilled Cheese ",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Grilled Ham and Cheese",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Hot Dog",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Turkey Dog ",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Quesadilla ",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Quesadilla with Chicken",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Tuna Melt ",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Turkey Burger ",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Turkey Cheeseburger ",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Double Turkey Fries",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"Onion Rings",
+      "itemType":"Grill"
+   },
+   {
+      "menuItem":"BLT Sandwich ",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Cheese Sandwich ",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"BLT Croissant ",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"BLTA Sandwich ",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Chicken Salad Sandwich ",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Club Burrito with Tuna",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Club Burrito with Turkey ",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Club Sandwich",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Egg Salad Sandwich",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Ham and Cheese Sandwich ",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Ham Sandwich",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Roast Beef Sandwich ",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Tuna Sandwich ",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Turkey and Cheese Sandwich",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Turkey Sandwich ",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Vegetarian Sandwich Salami Sandwich",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Cole Slaw",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"PB&J Sandwich",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Fruit Salad Side",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"BBQ Chicken ",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Potato Salad",
+      "itemType":"Deli"
+   },
+   {
+      "menuItem":"Penne",
+      "itemType":"Pasta"
+   },
+   {
+      "menuItem":"Spaghetti",
+      "itemType":"Pasta"
+   },
+   {
+      "menuItem":"Ziti",
+      "itemType":"Pasta"
+   },
+   {
+      "menuItem":"Fettuccine",
+      "itemType":"Pasta"
+   },
+   {
+      "menuItem":"Linguine",
+      "itemType":"Pasta"
+   },
+   {
+      "menuItem":"Macaroni",
+      "itemType":"Pasta"
+   },
+   {
+      "menuItem":"Rigatoni",
+      "itemType":"Pasta"
+   },
+   {
+      "menuItem":"Farfalline",
+      "itemType":"Pasta"
+   },
+   {
+      "menuItem":"Cannelloni",
+      "itemType":"Pasta"
+   }
+]

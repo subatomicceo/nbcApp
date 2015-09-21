@@ -1,0 +1,11 @@
+<div class="searchView">
+	<img src="assets/images/hero.png" alt="">
+	<h1>NBCUniversal Commissary</h1>
+	<input type="text" placeholder="Filter by name ..." ng-keyup="filter($event)" ng-blur="hide()">
+	<div class="dropdown">
+		<div class="divider" ng-repeat="item in menuItems">
+			<span class="title">{{item.menuItem}}</span>
+			<span class="type">{{item.itemType}}</span>
+		</div>
+	</div>
+</div>
