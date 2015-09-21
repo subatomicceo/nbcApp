@@ -14,12 +14,14 @@ its package manager (npm) installed.  You can get them from [http://nodejs.org/]
 ## Getting Started
 
 ```
-npm install
+$ git clone https://github.com/subatomicceo/nbcApp
+$ cd nbcApp
+$ npm install
 ```
 
 ### Run the Application
 ```
-npm start
+$ npm start
 ```
 
 Now browse to the app at `http://localhost:8000/app/`.
